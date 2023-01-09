@@ -2,6 +2,7 @@
 
 
 Hi there 👋
+
 📌 I am CSE 2022 Grad 
 - 🔭 I’m currently working on a project called "Amazon Clone"
 - 🌱 I’m currently learning HTML, CSS and C++
