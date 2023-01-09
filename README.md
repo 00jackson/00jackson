@@ -1,6 +1,8 @@
- Hi there 👋
- I am JACKSON KUJUR
-📌 CSE 2022 Grad 
+  
+
+
+Hi there 👋
+📌 I am CSE 2022 Grad 
 - 🔭 I’m currently working on a project called "Amazon Clone"
 - 🌱 I’m currently learning HTML, CSS and C++
 - 🤔 I’m looking for help with the scripting languages and their functionality.
