@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning HTML, CSS and C++
 - 🤔 I’m looking for help with the scripting languages and their functionality.
 - 💬 Ask me about DSA and medium Leetcode questions and their solutions.
-- 📫 How to reach me: jacksonkujur12@gmail.com
-            linkedIn: www.linkedin.com/in/jackson-kujur-067b581a6/
+- 📫 How to reach me ↓
+- 📩 Mail me : jacksonkujur12@gmail.com
+- linkedIn: www.linkedin.com/in/jackson-kujur-067b581a6/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Achhhaa????
 
