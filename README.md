@@ -2,8 +2,8 @@
 
 
 
-Hi there 👋
-
+# Hi there 👋
+## My name is Jackson Kujur
 
 📌 I am CSE 2022 Grad 
 - 🔭 I’m currently working on a project called "Amazon Clone"
