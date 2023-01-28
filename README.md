@@ -5,7 +5,8 @@
 # Hi there 👋
 ## My name is Jackson Kujur 👽
 
-📌 I am CSE 2022 Grad 
+📌 _I am CSE 2022 Grad_
+
 - 🔭 I’m currently working on a project called "Amazon Clone"
 - 🌱 I’m currently learning HTML, CSS and C++
 - 🤔 I’m looking for help with the scripting languages and their functionality.
