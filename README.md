@@ -7,14 +7,17 @@
 </p>
   
 <h3> My name is Jackson Kujur </h3> 
-<h2><img src = "https://user-images.githubusercontent.com/95626883/217587436-8ac7c46b-55c4-4190-becf-06073c3f63b8.png" width = 100px></h2>
-
+<!-- <h2><img src = "https://user-images.githubusercontent.com/95626883/217587436-8ac7c46b-55c4-4190-becf-06073c3f63b8.png" width = 100px></h2>
+ -->
 
 ## About
 - 😌 Pronouns: (He/Him).
 - 📌 CSE 2022 Grad.
 - 🔭 I’m currently working on a project called "MetroComp".
 - 🤔 I’m looking for help with the scripting languages and their functionality.
+- 🤡 Solved 140+ questions on Leetcode.
+      
+     Wait! the coffee is ready I guess  ☕️ 
 
 
  <h3> How to reach me </h3>
@@ -30,7 +33,6 @@
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </code>
 <code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </code>
 <code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </code>
-
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </code>
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </code>                     
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </code>
