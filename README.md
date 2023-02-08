@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
   
-<h3> My name is Jackson Kujur </h3> 
+<h3> Hi I'm Jackson Kujur </h3> 
 <!-- <h2><img src = "https://user-images.githubusercontent.com/95626883/217587436-8ac7c46b-55c4-4190-becf-06073c3f63b8.png" width = 100px></h2>
  -->
 
