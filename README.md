@@ -7,7 +7,7 @@
 
 📌 _I am CSE 2022 Grad_
 
-- 🔭 I’m currently working on a project called "Amazon Clone"
+- 🔭 I’m currently working on a project called "MetroComp"
 - 🌱 I’m currently learning HTML, CSS and C++
 - 🤔 I’m looking for help with the scripting languages and their functionality.
 - 💬 Ask me about DSA and medium Leetcode questions and their solutions.
