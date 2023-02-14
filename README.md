@@ -15,14 +15,15 @@
 - 📌 CSE 2022 Grad.
 - 🔭 I’m currently working on a project called "MetroComp".
 - 🤔 I’m looking for help with the scripting languages and their functionality.
-- 🤡 Solved 145+ questions on Leetcode.
+- 🤡 Solved 150+ questions on Leetcode.
       
      Wait! the coffee is ready I guess  ☕️ 
 
 
- <h3> How to reach me </h3>
+ <h3>Reach me at</h3>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com" ><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="40" align='center'></a>
  <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+ 
  <br>
 
                                                               
