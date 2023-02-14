@@ -20,7 +20,7 @@
      Wait! the coffee is ready I guess  ☕️ 
 
 
- <h3>Reach me at</h3>
+ <h2>Reach me</h2>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com" ><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="40" align='center'></a>
  <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
  
@@ -38,6 +38,7 @@
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </code>                     
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </code>
  <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </code>
+ <h4>Also in the process of learning</h4>
  <br>
  
  <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height=32px> </h2>
