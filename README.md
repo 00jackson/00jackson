@@ -24,7 +24,7 @@
 
  <h3 align="left">Connect me here:</h3>
  <p align="left">
- <a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com' target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" alt="jacksonkujur12" height="30" width="40"/></a>
+ <a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com' target="blank"><img align="center" src="https://user-images.githubusercontent.com/95626883/219688104-a7d76929-2538-4303-8827-2bc196cf3c12.png" alt="jacksonkujur12" height="40" width="40"/></a>
  <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="jackson-kujur" height="30" width="40"/></a> 
  <a href="https://twitter.com/just_me_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_me_coding" height="30" width="40" /></a>
  <a href = 'https://leetcode.com/Jackson_Kujur77/' target="blank"> <img align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jackson_kujur77" height="30" width="40"/></a> 
