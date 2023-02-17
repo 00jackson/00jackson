@@ -22,9 +22,12 @@
 
 
  <h2>Reach me</h2>
+ <p align="left">
  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com" ><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="40" align='center'></a>
  <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
- 
+ <a href = 'https://leetcode.com/Jackson_Kujur77/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></a> 
+ <a href = 'https://www.hackerrank.com/jacksonkujur12'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/></a> 
+ </p>
  <br>
 
                                                               
