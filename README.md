@@ -8,6 +8,7 @@
 
 <!-- <h3 align="center">Welcome to the dome</h3>  -->
 <h1 align="center">Hi 👋,I'm Jackson Kujur</h1>
+<h3 align="center"> 🧩 My interests includes Coding, Data Strutures and Algorithms, Software Development and I find it really cool typing stuffs on Command-line Interface. 🚀 I’m currently learning Svelte.</h3>
 </p>
 
 
