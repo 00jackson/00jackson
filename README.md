@@ -1,15 +1,15 @@
   
 
-
-
-<h1> Heyy folks <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<!-- <h1 align="center">Hi 👋, I'm Suchismita Rout.
+</h1> -->
 <p align='center'>
+<h1 align="center"> Heyy folks! </h1>
+
+
+<!-- <h3 align="center">Welcome to the dome</h3>  -->
+<h1 align="center">Hi 👋,I'm Jackson Kujur</h1>
 </p>
-  
-<h3>Welcome to the dome</h3> 
-<h2>I'm Jackson Kujur</h2>
-<!-- <h2><img src = "https://user-images.githubusercontent.com/95626883/217587436-8ac7c46b-55c4-4190-becf-06073c3f63b8.png" width = 100px></h2>
- -->
+
 
 ## About
 - 😌 Pronouns: (He/Him).
@@ -21,14 +21,15 @@
      Wait! the coffee is ready I guess  ☕️ 
 
 
- <h2>Reach me</h2>
+ <h3 align="left">Connect me here:</h3>
  <p align="left">
- <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com" ><img src="https://user-images.githubusercontent.com/56452820/132254868-4afe403c-0c88-4023-86c5-23ef0ec7a3f7.png" height="40" align='center'></a>
- <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
- <a href = 'https://leetcode.com/Jackson_Kujur77/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></a> 
- <a href = 'https://www.hackerrank.com/jacksonkujur12'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/></a> 
+ <a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com' target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" alt="jacksonkujur12" height="30" width="40"/></a>
+ <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="jackson-kujur" height="30" width="40"/></a> 
+ <a href="https://twitter.com/just_me_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_me_coding" height="30" width="40" /></a>
+ <a href = 'https://leetcode.com/Jackson_Kujur77/' target="blank"> <img align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jackson_kujur77" height="30" width="40"/></a> 
+ <a href = 'https://www.hackerrank.com/jacksonkujur12' target="blank"> <img align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jacksonkujur12" height="30" width="40"/></a> 
  </p>
- <br>
+ 
 
                                                               
  <h2> Skills</h2>    
