@@ -28,7 +28,7 @@
  <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="jackson-kujur" height="30" width="40"/></a> 
  <a href="https://twitter.com/just_me_coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_me_coding" height="30" width="40" /></a>
  <a href = 'https://leetcode.com/Jackson_Kujur77/' target="blank"> <img align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jackson_kujur77" height="30" width="40"/></a> 
- <a href = 'https://www.hackerrank.com/jacksonkujur12' target="blank"> <img align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jacksonkujur12" height="60" width="60"/></a> 
+ <a href = 'https://www.hackerrank.com/jacksonkujur12' target="blank"> <img align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jacksonkujur12" height="40" width="40"/></a> 
  </p>
  
 
