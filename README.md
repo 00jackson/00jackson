@@ -15,7 +15,7 @@
 ## About
 - 😌 Pronouns: (He/Him).
 - 📌 CSE 2022 Grad.
-- 🔭 I’m currently working on a project called "MetroComp".
+- 🔭 I’m currently working on a project based on "CLI".
 - 🤔 I’m looking for help with the scripting languages and their functionality.
 - 🤡 Solved 150+ questions on Leetcode.
       
