@@ -46,6 +46,8 @@
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift-original.svg'> </code>
  <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap-original.svg'> </code>
  <code><img width ='32px' src ='https://reactnative.dev/img/header_logo.svg'> </code>
+ <code><img width ='32px' src ='https://reactredux.dev/img/header_logo.svg'> </code>
+ 
  
 <!--  <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </code> -->
  <h4>Also in the process of learning</h4>
