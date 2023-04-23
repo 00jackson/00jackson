@@ -36,9 +36,9 @@
  <h2> Skills</h2>    
  <code><img width ='32px' src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </code>
  <code><img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/java.svg'> </code>
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c-original.svg'> </code>
-<code><img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png'> </code>
-<code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css-original.svg'> </code>
+<code><img width ='32px' src =''> </code>
+<code><img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/c.svg'> </code>
+<code> <img width ='32px' src =''> </code>
 <code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html-original.svg'> </code>
 <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql-original.svg'> </code>
 <code><img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBWwCOOzY1missAYG8tSYGyatbWA6ceN5gg&usqp=CAU'> </code>
