@@ -24,28 +24,28 @@
 
  <h3 align="left">Connect me here:</h3>
  <p align="left">
- <a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com' target="blank"><img align="center" src="https://user-images.githubusercontent.com/95626883/219688104-a7d76929-2538-4303-8827-2bc196cf3c12.png" alt="jacksonkujur12" height="30" width="40"/></a>
- <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" alt="jackson-kujur" height="30" width="40"/></a> 
- <a href="https://twitter.com/Jackedonbagpipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jackedonbagpipe" height="30" width="40" /></a>
- <a href = 'https://leetcode.com/Jackson_Kujur77/' target="blank"> <img align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jackson_kujur77" height="30" width="40"/></a> 
- <a href = 'https://www.hackerrank.com/jacksonkujur12' target="blank"> <img align= 'center' src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jacksonkujur12" height="40" width="40"/></a> 
+ <a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com' target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="jacksonkujur12" height="30" width="40"/></a>
+ <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jackson-kujur" height="30" width="40"/></a> 
+ <a href="https://twitter.com/Jackedonbagpipe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="Jackedonbagpipe" height="30" width="40" /></a>
+ <a href = 'https://leetcode.com/Jackson_Kujur77/' target="blank"> <img align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="Jackson_kujur77" height="30" width="40"/></a> 
+ <a href = 'https://www.hackerrank.com/jacksonkujur12' target="blank"> <img align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="jacksonkujur12" height="40" width="40"/></a> 
  </p>
  
 
                                                               
  <h2> Skills</h2>    
- <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </code>
- <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </code>
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </code>
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </code>
-<code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </code>
-<code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </code>
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </code>
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </code>
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte.svg'> </code>                     
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </code>
- <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </code>
- <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </code>
+ <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python-original.svg'> </code>
+ <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java-original.svg'> </code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c-original.svg'> </code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp-original.svg'> </code>
+<code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css-original.svg'> </code>
+<code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html-original.svg'> </code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql-original.svg'> </code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript-original.svg'> </code>
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte-original.svg'> </code>           
+<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift-original.svg'> </code>
+ <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap-original.svg'> </code>
+ <code><img width ='32px' src ='https://reactnative.dev/img/header_logo.svg'> </code>
  
 <!--  <code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </code> -->
  <h4>Also in the process of learning</h4>
