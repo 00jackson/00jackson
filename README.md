@@ -36,14 +36,14 @@
  <h2> Skills</h2>    
  <code><img width ='32px' src ="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"> </code>
  <code><img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/java.svg'> </code>
-<code><img width ='32px' src =''> </code>
+<code><img width ='32px' src ='https://drive.google.com/uc?id=1pQvKRy2C4WljGMM2jTRNDP-italR64G6'> </code>
 <code><img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/c.svg'> </code>
-<code> <img width ='32px' src =''> </code>
-<code> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html-original.svg'> </code>
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql-original.svg'> </code>
+<code> <img width ='32px' src ='https://drive.google.com/uc?id=1NTl8dWqdz4mvKMPRxrxf9wnpL3CkXBoS'> </code>
+<code> <img width ='32px' src ="https://drive.google.com/uc?id=1J169jwE0uH9zhvs8bhfN_l00J2Uuyt9b"> </code>
+<code><img width ='32px' src ="https://icons.veryicon.com/png/o/miscellaneous/gwidc_1/mysql-2.png"> </code>
 <code><img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBWwCOOzY1missAYG8tSYGyatbWA6ceN5gg&usqp=CAU'> </code>
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/svelte-original.svg'> </code>           
-<code><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift-original.svg'> </code>
+<code><img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/996px-Svelte_Logo.svg.png?20191219133350'> </code> 
+<code><img width ='32px' src ='https://drive.google.com/uc?id=1oUtwhwrzEXAGVHUUGV0YwXxbkrAz4UjT'> </code>
  <code><img width ='32px' src ="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg"> </code>
  <code><img width ='32px' src ='https://reactnative.dev/img/header_logo.svg'> </code>
  <code><img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/redux.svg'> </code>
