@@ -20,8 +20,9 @@
 - 🔭 I’m currently working on a project based on Full-Stack development.
 - 🤔 I’m looking for help with the scripting languages and their functionality.
 - 🤡 Solved 400+ questions on Leetcode.
+- Profile views: ![](https://komarev.com/ghpvc/?username=00jackson)
       
-     Wait! the coffee is ready I guess  ☕️ 
+     
 
 
  <h3 align="left">Connect me here:</h3>
