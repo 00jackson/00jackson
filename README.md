@@ -63,7 +63,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=00jackson&" alt="00jackson" /></p>
 
-<h4> Fun fact: I m noob:) Jk </h4>
+<h4> Fun fact: I can center a div </h4>
 
 
 
