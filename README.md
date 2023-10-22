@@ -10,6 +10,8 @@
 <h1 align="center">Hi 👋,I'm Jackson Kujur</h1>
 <h3 align="center"> 🧩 My interests include Coding, Data Strutures and Algorithms, Software Development and I find it really cool typing stuffs on Command-line Interface. 🚀 I’m currently learning frameworks.</h3>
 </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
+
 
 
 ## About
