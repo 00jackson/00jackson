@@ -19,7 +19,7 @@
 - 📌 CSE 2022 Grad.
 - 🔭 I’m currently working on a project based on Full-Stack development.
 - 🤔 I’m looking for help with the scripting languages and their functionality.
-- 🤡 Solved 450+ questions on Leetcode.
+- 🤡 Solved 500+ questions on Leetcode.
 - Profile views: ![](https://komarev.com/ghpvc/?username=00jackson)
       
      
