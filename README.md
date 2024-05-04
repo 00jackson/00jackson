@@ -30,7 +30,7 @@
  <a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jacksonkujur12@gmail.com' target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="jacksonkujur12" height="30" width="40"/></a>
  <a href = 'https://www.linkedin.com/in/jackson-kujur-067b581a6//'> <img align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jackson-kujur" height="30" width="40"/></a> 
  <a href="https://twitter.com/Jackedonbagpipe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="Jackedonbagpipe" height="30" width="40" /></a>
- <a href = 'https://leetcode.com/Jackson_Kujur77/' target="blank"> <img align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="Jackson_kujur77" height="30" width="40"/></a> 
+ <a href = '[https://leetcode.com/Jackson_Kujur77/](https://leetcode.com/u/that_guy77/)' target="blank"> <img align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="Jackson_kujur77" height="30" width="40"/></a> 
  <a href = 'https://www.hackerrank.com/jacksonkujur12' target="blank"> <img align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="jacksonkujur12" height="40" width="40"/></a> 
  </p>
  
